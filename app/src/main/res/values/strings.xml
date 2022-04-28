@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MiDispositivo</string>
+    <string name="hint_input_usuario">Usuario</string>
+    <string name="hint_input_Passw">Contraseña</string>
+    <string name="b_acceder">Acceder</string>
+    <string name="b_registrarse">Registrarse</string>
+    <string name="titulobarra">TituloBarra</string>
+</resources>
